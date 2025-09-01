@@ -19,19 +19,21 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="Next.js" />&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="30" alt="Redux" />
 
-  <br/><br/>
+  <br>
 
   <!-- Backend -->
   <img src="https://cdn.simpleicons.org/express/FFFFFF" height="30" alt="Express" />&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="30" alt="Node.js" />&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" height="30" alt="Prisma" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="MongoDB" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="MongoDB" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/postgresql/336791" height="30" alt="PostgreSQL" />
 
-  <br/><br/>
+  <br>
 
   <!-- DevOps / Utilities -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git" />
 </div>
+
 
 
 
