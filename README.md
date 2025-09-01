@@ -16,18 +16,18 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="TypeScript" />&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="30" alt="TailwindCSS" />&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React" />&nbsp;&nbsp;
-
-  <!-- Next.js & Redux -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="Next.js" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="30" alt="Redux" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="30" alt="Redux" />
 
-  <!-- Express -->
-  <img src="https://cdn.simpleicons.org/express/FFFFFF" height="30" alt="Express" />&nbsp;&nbsp;
+  <br/><br/>
 
   <!-- Backend -->
+  <img src="https://cdn.simpleicons.org/express/FFFFFF" height="30" alt="Express" />&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="30" alt="Node.js" />&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" height="30" alt="Prisma" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="MongoDB" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="MongoDB" />
+
+  <br/><br/>
 
   <!-- DevOps / Utilities -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git" />
