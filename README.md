@@ -8,41 +8,35 @@
 
 
 ###
-<div align="center">
+<div align="center" style="display: flex; align-items: center; justify-content: center; gap: 12px; flex-wrap: wrap;">
+
   <!-- Frontend -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo" />
-  <img width="12" />
   <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="30" alt="tailwindcss logo" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo" />
-  <img width="12" />
+
   <!-- Next.js with right border -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo" style="border-right:2px solid #888; padding-right:12px;" />
+
+  <!-- Redux with right border -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="30" alt="redux logo" style="border-right:2px solid #888; padding-right:12px;" />
 
   <!-- Express (Middle) -->
-  <img width="24" />
-  <img src="https://cdn.simpleicons.org/express/FFFFFF" height="30" alt="expressjs logo" />
-  <img width="24" />
+  <img src="https://cdn.simpleicons.org/express/FFFFFF" height="30" alt="expressjs logo" style="margin: 0 24px;" />
 
   <!-- Backend -->
   <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="30" alt="nodejs logo" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" height="30" alt="prisma logo" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo" />
-  <img width="12" />
-  <!-- Redux with right border -->
 
   <!-- DevOps / Utilities (White icons) -->
-  <img width="24" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo" style="filter: brightness(0) invert(1);" />
+  <img src="https://cdn.simpleicons.org/vercel/000000" height="30" alt="vercel logo" style="filter: brightness(0) invert(1);" />
+
 </div>
 
 
