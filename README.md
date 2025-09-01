@@ -27,10 +27,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" height="30" alt="Prisma" />&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="MongoDB" />&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/postgresql/336791" height="30" alt="PostgreSQL" />
-
   <br>
-
-  <!-- DevOps / Utilities -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git" />
 </div>
 
