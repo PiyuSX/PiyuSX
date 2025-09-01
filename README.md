@@ -8,7 +8,7 @@
 
 
 ###
-<p align="center">
+<div align="center">
   <!-- Frontend -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5" />&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3" />&nbsp;&nbsp;
@@ -31,7 +31,7 @@
 
   <!-- DevOps / Utilities -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git" />
-</p>
+</div>
 
 
 
