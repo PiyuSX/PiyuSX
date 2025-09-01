@@ -24,6 +24,7 @@
   <img width="12" />
   <!-- Next.js with right border -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo" style="border-right:2px solid #888; padding-right:12px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="30" alt="redux logo" style="border-right:2px solid #888; padding-right:12px;" />
 
   <!-- Express (Middle) -->
   <img width="24" />
@@ -38,15 +39,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo" />
   <img width="12" />
   <!-- Redux with right border -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="30" alt="redux logo" style="border-right:2px solid #888; padding-right:12px;" />
 
   <!-- DevOps / Utilities (White icons) -->
   <img width="24" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo" style="filter: brightness(0) invert(1);" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/vercel/000000" height="30" alt="vercel logo" style="filter: brightness(0) invert(1);" />
 </div>
 
 
