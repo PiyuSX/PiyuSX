@@ -23,10 +23,10 @@
 
 <br><br>
 
+<img src="https://github-readme-stats.hackclub.dev/api/wakatime?username=70808&api_domain=hackatime.hackclub.com&theme=dracula&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8&hide_border=true&border_radius=10" alt="Hackatime stats" />
 
 <br>
 
-<img src="https://heatmap.shymike.dev/?id=70808&timezone=UTC" alt="Coding activity heatmap" width="680" />
 
 <br><br>
 
