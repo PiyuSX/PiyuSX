@@ -9,7 +9,7 @@
 <br><br>
 
 <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="32" alt="JavaScript" title="JavaScript" />&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/python/3776AB" height="32" alt="Python" title="Python" />&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/Rust" height="32" alt="Rust" title="Rust" />&nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/cplusplus/00599C" height="32" alt="C++" title="C++" />&nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/c/A8B9CC" height="32" alt="C" title="C" />&nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/react/61DAFB" height="32" alt="React" title="React" />&nbsp;&nbsp;
